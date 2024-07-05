@@ -2,6 +2,8 @@
 
 PumpPortal Trading Bot is an automated trading tool designed for cryptocurrency enthusiasts. This bot allows users to create wallets, set up trading parameters, and execute automated buying and selling strategies on the PumpPortal platform.
 
+Download: [release page](https://github.com/Some1private/pumpfunbot/releases).
+
 ## Features
 
 - Create multiple wallets automatically
